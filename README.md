@@ -16,5 +16,5 @@
 <br />
 
 [website]: https://capedcoder.com
-[linkedin]: www.linkedin.com/in/patrick-ecker
+[linkedin]: https://www.linkedin.com/in/patrick-ecker
 
