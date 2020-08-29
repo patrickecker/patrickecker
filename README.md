@@ -1,8 +1,7 @@
-### Hi there, I'm Patrick - aka [patrickecker][website] 👋
+### Hi there, I'm Patrick - aka [patrickecker] 👋
 
 ## I'm a Father and Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with others
 - 🥅 2020 Goals: Contribute more to Open Source projects
