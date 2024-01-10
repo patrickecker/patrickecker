@@ -18,3 +18,10 @@
 [website]: https://capedcoder.com
 [linkedin]: https://www.linkedin.com/in/patrick-ecker
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,cs,dotnet,vscode" />
+  </a>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/#CC2927" />
+</p>
