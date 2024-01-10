@@ -23,5 +23,5 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,dotnet,vscode" />
   </a>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/CC2927" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftsqlserver.svg" />
 </p>
